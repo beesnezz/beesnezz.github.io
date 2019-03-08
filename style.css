@@ -1,13 +1,19 @@
 body{
-  color: yellow
+  background-color: yellow;
+  color: black;
+  font: Helvetica;
 }
+
 h1{
-  color: black;
-   font: Helvetica;
-   font-size: 24px
+   font-size: 60px;
+   text-align: center;
 }
+
+h2{
+  font-size: 24px;
+  text-align: center;
+}
+
 p1{
-  color: black;
-  font:Helvetica;
   font-size: 16px
 }

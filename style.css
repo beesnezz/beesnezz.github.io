@@ -1,5 +1,5 @@
 body{
-  background-color: #F4D03F;
+  background-color: gold;
   color: black;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
@@ -29,4 +29,28 @@ p{
   font-size: 16px;
   margin-left: 20px;
   margin-right: 20px;
+}
+#v-pills-important-tab{
+    color: dimgrey;
+}
+#v-pills-further-tab{
+    color: dimgrey;
+}
+
+#v-pills-factors-tab{
+    color: dimgrey;
+}
+
+#v-pills-important-tab.active{
+    background-color: lemonchiffon;
+    color: black;
+}
+#v-pills-further-tab.active{
+    background-color: lemonchiffon;
+    color: black;
+}
+
+#v-pills-factors-tab.active{
+  background-color: lemonchiffon;
+  color: black;
 }

@@ -1,7 +1,7 @@
 body{
-  color: yellow
+  background-color: : yellow
 }
-h1{
+h1, h2{
   color: black;
    font: Helvetica;
    font-size: 24px

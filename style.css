@@ -54,3 +54,7 @@ p{
   background-color: lemonchiffon;
   color: black;
 }
+
+#-ms-viewport{
+  width: device-width;
+}

@@ -58,3 +58,12 @@ p{
 #-ms-viewport{
   width: device-width;
 }
+
+.navbar-wrapper {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100% !important;
+    left: 0;
+    z-index: 20;
+}
